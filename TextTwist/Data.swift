@@ -8,12 +8,13 @@
 
 import Foundation
 
+
+
 struct TestTwistInfo {
     let wordCount: Int
     let letters: String
     let words: [String]
 }
-
 
 class WordData {
     static let allInfo: [TestTwistInfo] = [
